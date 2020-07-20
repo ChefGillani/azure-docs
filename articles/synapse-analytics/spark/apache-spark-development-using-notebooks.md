@@ -131,7 +131,7 @@ Click the **undo** button or press **Ctrl+Z** to revoke the most recent cell ope
 
 Select the ellipses (...) to access the additional cell actions menu at the far right. Then select **Move cell up** or **Move cell down** to move the current cell. 
 
-You can also use [shortcut keys under command mode](#shortcut-keys-under-command-mode). Press **Ctrl+Alt+↑** to move up the current cell. Press **Ctrl+Alt+↓** to move the current cell down.
+You can also use [shortcut keys under command mode](#shortcut-keys-under-command-mode). Press **Ctrl+Shift+↑** to move up the current cell. Press **Ctrl+Shift+↓** to move the current cell down.
 
    ![move-a-cell](./media/apache-spark-development-using-notebooks/synapse-move-cells.png)
 
